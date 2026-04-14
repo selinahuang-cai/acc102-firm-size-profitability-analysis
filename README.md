@@ -23,8 +23,9 @@ This project investigates the relationship between firm size (market capitalizat
 
 ## Repository Structure
 firm-size-profitability-analysis
-- requirements.txt        # Python dependencies
+
 - firm-size-profitability2471401.ipynb   # Complete Python analysis (data fetch, cleaning, grouping, visualization)
+- requirements.txt        # Python dependencies
 - roa_mean_std_with_bar.png       # Mean and std ROA by size group
 - roa_median.png         #  Median ROA by size group
 - README.md               # Project documentation (this file)
