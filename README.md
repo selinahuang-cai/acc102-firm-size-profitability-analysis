@@ -111,3 +111,8 @@ firm-size-profitability-analysis
 
 - **Omitted variable bias**: Firm characteristics such as leverage, age, and R&D intensity are not controlled for. These factors may correlate with both firm size and profitability, potentially confounding the observed relationship.
 
+
+## Author
+
+[Yuhan.Huang2471401] – ACC102 Mini Assignment, Track 2 (GitHub Data Analysis Project)  
+Xi‘an Jiaotong-Liverpool University, 2nd Semester 2025-26
