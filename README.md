@@ -101,3 +101,13 @@ firm-size-profitability-analysis
 ## Demo Video
 
 [Click here to watch the demo video](https://youtu.be/你的视频ID)
+
+
+## Limitations
+
+- **Cross-sectional analysis**: The study uses only 2024 data and does not capture dynamic trends or the persistence of profitability over time.
+
+- **Coarse industry classification**: While financial and utility firms are excluded (`indfmt='INDL'`), no further adjustment is made for detailed sub‑industries (e.g., manufacturing, technology, retail). Profitability norms and asset structures vary considerably across these sub‑industries, which may bias the results.
+
+- **Omitted variable bias**: Firm characteristics such as leverage, age, and R&D intensity are not controlled for. These factors may correlate with both firm size and profitability, potentially confounding the observed relationship.
+
