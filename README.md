@@ -64,21 +64,22 @@ Note: The notebook filename contains spaces, so it must be enclosed in quotes.
 
 ### 4.Run the analysis
 
-· In the notebook, execute cells sequentially (Kernel → Restart & Run All).
-· The notebook will:
-  · Connect to WRDS (requires your WRDS credentials).
-  · Fetch 2024 Compustat data.
-  · Clean data and compute ROA and market cap.
-  · Group firms by size (Small/Medium/Large).
-  · Generate summary statistics and figures (roa_mean_std_with_bar.png, roa_median.png).
+In the notebook, execute cells sequentially (`Kernel → Restart & Run All`).
+
+**The notebook will perform the following steps:**
+
+- Connect to WRDS (requires your WRDS credentials)
+- Fetch 2024 Compustat data
+- Clean data and compute ROA and market capitalization
+- Group firms by size (Small / Medium / Large)
+- Generate summary statistics and figures:  
+  `roa_mean_std_with_bar.png`, `roa_median.png`an_std_with_bar.png, roa_median.png).
 
 ### 5.Reproduce figures
 
 The notebook automatically saves the two figures. You can also regenerate them by running the visualization cells.
 
----
-
-### Repository contents
+### 6.Repository contents
 firm-size-profitability-analysis
 
 - firm-size-profitability2471401.ipynb   # Complete Python analysis (data fetch, cleaning, grouping, visualization)
@@ -86,3 +87,5 @@ firm-size-profitability-analysis
 - roa_mean_std_with_bar.png              # Mean and std ROA by size group
 - roa_median.png                         #  Median ROA by size group
 - README.md                              # Project documentation (this file)
+
+---
