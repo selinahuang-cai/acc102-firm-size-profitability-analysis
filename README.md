@@ -73,7 +73,7 @@ In the notebook, execute cells sequentially (`Kernel → Restart & Run All`).
 - Clean data and compute ROA and market capitalization
 - Group firms by size (Small / Medium / Large)
 - Generate summary statistics and figures:  
-  `roa_mean_std_with_bar.png`, `roa_median.png`an_std_with_bar.png, roa_median.png).
+  `roa_mean_std_with_bar.png`, `roa_median.png`.
 
 ### 5.Reproduce figures
 
@@ -89,3 +89,15 @@ firm-size-profitability-analysis
 - README.md                              # Project documentation (this file)
 
 ---
+
+
+## Visualization
+
+| Mean ROA with ±1 Std Dev | Median ROA |
+|:------------------------:|:----------:|
+| ![Mean](roa_mean_std_with_bar.png) | ![Median](roa_median.png) |
+
+
+## Demo Video
+
+[Click here to watch the demo video](https://youtu.be/你的视频ID)
