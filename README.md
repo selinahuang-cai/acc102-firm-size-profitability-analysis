@@ -80,7 +80,7 @@ In the notebook, execute cells sequentially (`Kernel → Restart & Run All`).
 The notebook automatically saves the two figures. You can also regenerate them by running the visualization cells.
 
 ### 6.Repository contents
-firm-size-profitability-analysis
+firm-size-profitability-analysis(Data file is not uploaded to GitHub due to WRDS access restrictions.)
 
 - firm-size-profitability2471401.ipynb   # Complete Python analysis (data fetch, cleaning, grouping, visualization)
 - requirements.txt                       # Python dependencies
